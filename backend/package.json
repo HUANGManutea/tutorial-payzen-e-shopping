@@ -1,0 +1,18 @@
+{
+  "name": "tutorial-payzen-e-shopping-back",
+  "version": "1.0.0",
+  "description": "backend du tutoriel payzen e-shopping",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "4.17.2",
+    "cors": "2.8.5",
+    "crypto-js": "4.1.1",
+    "dotenv": "16.0.0"
+  },
+  "author": "HUANG Manutea",
+  "license": "MIT"
+}
